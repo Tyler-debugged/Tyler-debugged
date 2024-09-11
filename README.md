@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Tyler-debugged
+- 👀 I’m interested in automation and effeciency
+- 🌱 I’m currently learning typescript
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me: through the interwebs
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 2 time national roller skating champ, can ride a unicycle, and was a technical minecrafer for many years
